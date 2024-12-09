@@ -268,6 +268,6 @@ const animationTimeline = () => {
     // Restart Animation on click
     const replyBtn = document.getElementById("replay");
     replyBtn.addEventListener("click", () => {
-        window.location.href = "";
+        window.location.href = "https://ijizench.github.io/specialll.github.io/";
     });
 }
